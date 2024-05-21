@@ -1,0 +1,60 @@
+/* 2nd   part */
+.body{
+    display: grid;
+    place-items: center;
+}
+.Main{
+    width: 850PX;
+    height: 100vh;
+    background: #f4f9fa;
+}
+
+/* nave */
+.Nav{
+    width: 100%;
+    height: 110px;
+    background: #0085cf;
+}
+.logo{
+    margin-left: 40px;
+}
+.Logo_img{
+    height: 70px;
+    margin-top: 18px;
+}
+/* nave end */
+
+
+/* body img*/
+.body_img_1{
+    display: grid;
+    place-items: center;margin-top: 40px;
+    position: relative;
+}
+.img_1{
+    width: 750px;
+    height: 320px;
+}
+.mm{
+    color: #0085cf;
+}
+.cen{
+    margin-top: 15px;
+    
+    text-align: center;
+}
+.text_1{
+    width: 400px;
+    height: 100px;
+    position: absolute;
+background-color: #ffffffa2 ;
+border-radius: 10px;
+
+}
+/* body img end */
+.Text_inlinn{
+    display: grid;
+    place-items: center;
+   
+ height: 100px;
+}
